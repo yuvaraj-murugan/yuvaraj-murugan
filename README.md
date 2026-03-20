@@ -1,18 +1,18 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yuvaraj%20Murugan&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Senior%20Data%20Analyst%20%7C%20Turning%20Raw%20Data%20into%20Business%20Decisions&descAlignY=56&descSize=17"/>
+<!-- Animated Header Banner — Teal/Blue gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,24&height=200&section=header&text=Yuvaraj%20Murugan&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Analyst%20%7C%20Turning%20Raw%20Data%20into%20Business%20Decisions&descAlignY=56&descSize=17"/>
 
 <!-- Dynamic Typing -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=5%2B+Years+Transforming+Data+into+Insights+%F0%9F%93%88;Power+BI+%7C+Tableau+%7C+SQL+%7C+Python+%F0%9F%9B%A0%EF%B8%8F;Healthcare+%26+E-Commerce+Analytics+%F0%9F%8F%A5;Building+Dashboards+That+Drive+Decisions+%F0%9F%9A%80;Exploring+Cloud+%26+Data+Engineering+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00CED1&center=true&vCenter=true&width=650&lines=5%2B+Years+Transforming+Data+into+Insights+%F0%9F%93%88;Power+BI+%7C+Tableau+%7C+SQL+%7C+Python+%F0%9F%9B%A0%EF%B8%8F;Healthcare+%26+E-Commerce+Analytics+%F0%9F%8F%A5;Building+Dashboards+That+Drive+Decisions+%F0%9F%9A%80;Exploring+Cloud+%26+Data+Engineering+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <!-- Profile Views + Social Badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=itsyuvarajm&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=itsyuvarajm&label=Profile%20Views&color=0891b2&style=for-the-badge" alt="profile views"/>
   &nbsp;
   <a href="https://linkedin.com/in/yuvaraj-m-da">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -23,7 +23,7 @@
   </a>
   &nbsp;
   <a href="https://iamyuvaraj.site/">
-    <img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
@@ -35,21 +35,17 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF"/>
+<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF"/>
 
-🔍 &nbsp; **Senior Data Analyst** with **5+ years** of experience across **Healthcare** and **E-Commerce** domains
+Hi there! I'm **Yuvaraj Murugan**, a passionate **Data Analyst** based in **Chennai, India 🇮🇳**
 
-🏢 &nbsp; Currently at **EBOT Technosoft Pvt. Ltd.** on the **iMobiSoft** digital health project
+With over **5 years of experience**, I bridge the gap between raw data and real business value — transforming complex datasets into clear, actionable insights that help teams make smarter decisions faster.
 
-📊 &nbsp; I build **end-to-end Power BI solutions** — from data modeling to executive dashboards
+I've worked across **Healthcare** and **E-Commerce** domains, designing end-to-end analytics solutions — from building robust data models to crafting interactive dashboards that stakeholders actually love using.
 
-🧮 &nbsp; Skilled in **complex SQL**, **DAX measures**, and **ETL pipelines** via Power Query
+Right now, I'm expanding into the **cloud & data engineering** space — actively learning **Azure Data Factory**, **Snowflake**, and **Databricks** to stay ahead in a fast-moving field.
 
-🐍 &nbsp; I use **Python (Pandas, NumPy, Matplotlib, Seaborn)** for analysis and data storytelling
-
-☁️ &nbsp; Upskilling in **Azure Data Factory**, **Snowflake** & **Databricks** to grow into cloud analytics
-
-📍 &nbsp; Based in **Chennai, Tamil Nadu, India 🇮🇳**
+When I'm not wrangling data, I'm thinking about how to tell better stories with it.
 
 <br/>
 
@@ -59,7 +55,7 @@
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🧰 Technical Skills
 
 <div align="center">
 
@@ -105,7 +101,7 @@
 <td width="50%">
 
 ### 🏢 EBOT Technosoft Pvt. Ltd.
-**Senior Data Analyst** &nbsp; `2021 – Present`
+**Data Analyst** &nbsp; `2021 – Present`
 
 **iMobiSoft Project** *(Current)*
 - 🏥 Built advanced analytics for a **Digital Health System**
@@ -157,11 +153,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌍%20%20iamyuvaraj.site%20%20-Explore%20My%20Work-1a1a2e?style=for-the-badge&logoColor=white)](https://iamyuvaraj.site/)
-
-<br/>
-
-> Dashboards · Case Studies · Projects · All in one place → **[iamyuvaraj.site](https://iamyuvaraj.site/)**
+[![Portfolio](https://img.shields.io/badge/🌍%20%20iamyuvaraj.site%20%20-Explore%20My%20Work-0891b2?style=for-the-badge&logoColor=white)](https://iamyuvaraj.site/)
 
 <br/>
 
@@ -203,4 +195,5 @@
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<!-- Footer Wave — Teal/Blue gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,24&height=120&section=footer"/>
